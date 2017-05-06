@@ -13,6 +13,6 @@ the program will end when either player gets four in a row or if no one wins aft
 
 # Example
 
-![screen shot 2017-05-06 at 10 12 30 am](https://cloud.githubusercontent.com/assets/18603999/25773074/21f2f0e0-3245-11e7-8d68-528a3b68a018.png)
+![screen shot 2017-05-06 at 10 17 49 am](https://cloud.githubusercontent.com/assets/18603999/25773085/504f18a6-3245-11e7-8cd7-30401cbff867.png)
 
 
