@@ -8,9 +8,11 @@ the program will end when either player gets four in a row or if no one wins aft
 
 # Start up Menu
 
-https://cloud.githubusercontent.com/assets/18603999/25773050/c76e7f9a-3244-11e7-8be3-f8714fef9a88.png
+![screen shot 2017-05-06 at 10 13 07 am](https://cloud.githubusercontent.com/assets/18603999/25773069/163d0ac4-3245-11e7-9274-bca8baa653d7.png)
+
 
 # Example
 
-https://cloud.githubusercontent.com/assets/18603999/25773057/f6b5f422-3244-11e7-8e30-7342b8a88f2c.png
+![screen shot 2017-05-06 at 10 12 30 am](https://cloud.githubusercontent.com/assets/18603999/25773074/21f2f0e0-3245-11e7-8d68-528a3b68a018.png)
+
 
